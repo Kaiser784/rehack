@@ -1,7 +1,9 @@
 # ReHack: Another Reliable Hacking Toolkit Installer
 
 Solution for me constantly breaking and booting my OS and having the headaches of manual installations.
-Scripts, wordlists and other tools needed when setting up for OffSec in a debian based system other than kali
+Scripts, wordlists and other tools needed when setting up for OffSec in a debian based system other than kali.
+
+Mostly will adapt it to a golang cli
 
 ## Motivation
 
