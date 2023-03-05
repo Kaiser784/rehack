@@ -3,8 +3,8 @@
 #update
 sudo apt-get update
 sudo apt-get upgrade -y
-sudo apt install snapd
-sudo apt-get install git
+sudo apt install snapd -y
+sudo apt-get install git -y
 
 #makes git ssh possible 
 echo "Host github.com

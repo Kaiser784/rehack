@@ -16,4 +16,13 @@ sudo apt install samba-common-bin -y
 sudo apt install smbclient -y
 
 #enum4linux
-sudo snap install enum4linux
+sudo snap install enum4linux 
+
+#arpspoof
+sudo apt install dsniff -y
+
+#metasploit
+sudo snap install metasploit-framework
+
+
+
