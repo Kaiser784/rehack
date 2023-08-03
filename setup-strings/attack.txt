@@ -1,0 +1,8 @@
+sqlmap
+john
+hydra
+samba-common-bin
+smbclient
+dsniff
+enum4linux
+metasploit-framework
